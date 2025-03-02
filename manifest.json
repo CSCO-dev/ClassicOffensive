@@ -1,0 +1,60 @@
+{
+    "brand": {
+        "name": "Classic Offensive"
+    },
+    "self": {
+        "linux": {
+            "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "url": ""
+        },
+        "windows": {
+            "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "url": ""
+        }
+    },
+    "branches": {
+        "public": {
+            "layers": [
+                "csgo-content",
+                "csco-content",
+                "client"
+            ]
+        },
+        "dedicated": {
+            "layers": [
+                "csgo-content",
+                "csco-content",
+                "dedicated"
+            ]
+        }
+    },
+    "layers": {
+        "csgo-content": {
+            "updated": 1740944943,
+            "url": [
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_vpk1.zip",
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_vpk2.zip",
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_vpk3.zip",
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/platform.zip"
+            ]
+        },
+        "csco-content": {
+            "updated": 1740944943,
+            "url": [
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csco.zip"
+            ]
+        },
+        "client": {
+            "updated": 1740944943,
+            "url": [
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/bin_client.zip"
+            ]
+        },
+        "dedicated": {
+            "updated": 1740944943,
+            "url": [
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/bin_dedicated.zip"
+            ]
+        }
+    }
+}
