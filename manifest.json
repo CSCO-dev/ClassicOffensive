@@ -41,15 +41,15 @@
             ]
         },
         "csco-content": {
-            "updated": 1740949536,
+            "updated": 1740955183,
             "url": [
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.2/csco.zip"
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.3/csco.zip"
             ]
         },
         "client": {
-            "updated": 1740944943,
+            "updated": 1740955183,
             "url": [
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.1/bin_client.zip"
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.3/bin_client.zip"
             ]
         },
         "dedicated": {
