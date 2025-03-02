@@ -9,7 +9,7 @@
             "url": ""
         },
         "windows": {
-            "sha256": "933462ac93e26be61e0382af3fbcb38604ac22424588702da759071594f6cc9b",
+            "sha256": "0f70f3e8bf5ef6db566501ec8ed6d82d1793fc96553475830eda28249f331988",
             "url": "https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/windows.exe"
         }
     },
