@@ -1,6 +1,7 @@
 {
     "brand": {
-        "name": "Classic Offensive"
+        "name": "Classic Offensive",
+        "installdir": "ClassicOffensive"
     },
     "self": {
         "linux": {
