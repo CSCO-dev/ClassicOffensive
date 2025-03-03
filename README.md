@@ -1,10 +1,14 @@
 # Classic Offensive
 
-Relive the essence of Counter-Strike with Classic Offensive. We take you back to the golden age of fragging! Fluid gunplay, exaggerated physics and sharp movement with the classic aesthetics of 1.6, built on top of CS:GO!
+Classic Offensive is community remake of Counter-Strike based on Counter-Strike: Global Offensive.
+
+Re-balanced and revitalized, Classic Offensive is an homage to the original vision of the game that started it all.
 
 # Exiled from Steamworks
 
-The project has been retired from Steam after letting us know the release was possible. No explanations were given and no questions are answered. Following this issue, we've decided to release outside of Steam, similarly to how we and others have released mods for unsupported games by their SDK in the past.
+The project has been retired from Steam after letting us know the release was possible. No explanations were given and no questions were answered.
+
+Following this issue, we've decided to take the route many other mods for unsupported games by their SDK did: releasing outside of Steam.
 
 # Installation
 
@@ -31,14 +35,14 @@ The project has been retired from Steam after letting us know the release was po
 
 # Socials
 
-[Twitter](https://x.com/csco_dev)
-[Youtube](https://www.youtube.com/@ClassicOffensive)
-[Reddit](https://www.reddit.com/r/classicoffensive/)
-[Discord](https://discordapp.com/invite/HRWRv7c)
+[Twitter](https://x.com/csco_dev) ||
+[Youtube](https://www.youtube.com/@ClassicOffensive) ||
+[Reddit](https://www.reddit.com/r/classicoffensive/) ||
+[Discord](https://discordapp.com/invite/HRWRv7c) ||
 [ModDB](https://www.moddb.com/mods/counter-strike-classic-offensive)
 
 # Legal
 
 Classic Offensive is a fan-made, non-commercial, standalone modification of the latest official version of Counter-Strike: Global Offensive. This project is not affiliated with Valve Corporation.
-All copyrights and trademarks associated with Counter-Strike, Half-Life, and any other official asset used from their games in accordance to the Distributing Source Engine Games / Mods guidelines, belong to Valve Corporation.
-Users are reminded to acknowledge and respect Valve Corporation's Terms of Service when playing this mod.
+All copyrights and trademarks associated with Counter-Strike, Half-Life, and any other official asset used from their games in accordance to the [Distributing Source Engine Games / Mods](https://partner.steamgames.com/doc/sdk/uploading/distributing_source_engine) guidelines, belong to Valve Corporation.
+Users are reminded to acknowledge and respect [Valve Corporation's Terms of Service](https://store.steampowered.com/subscriber_agreement) when playing this mod.
