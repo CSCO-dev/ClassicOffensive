@@ -31,12 +31,12 @@
     },
     "layers": {
         "csgo-content": {
-            "updated": 1740944943,
+            "updated": 1741010385,
             "url": [
                 "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_vpk1.zip",
                 "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_vpk2.zip",
                 "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_vpk3.zip",
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/csgo_other.zip",
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.4/csgo_other.zip",
                 "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.0/platform.zip"
             ]
         },
@@ -47,9 +47,9 @@
             ]
         },
         "client": {
-            "updated": 1740955183,
+            "updated": 1741010385,
             "url": [
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.3/bin_client.zip"
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.4/bin_client.zip"
             ]
         },
         "dedicated": {
