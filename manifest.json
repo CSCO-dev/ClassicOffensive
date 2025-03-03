@@ -5,12 +5,12 @@
     },
     "self": {
         "linux": {
-            "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-            "url": ""
+            "sha256": "26ac00c5cff335483382cb38e217d19ffc1f7d9558865f54022d47e4ab70165e",
+            "url": "https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/CSCOUpdaterLinux"
         },
         "windows": {
-            "sha256": "41363610ee11e014f06b097f53db7cd61e8de1f6388c504f022d2ee4c0c4710f",
-            "url": "https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/windows.exe"
+            "sha256": "c2efa04a5220e2f743720ac8aae4efc2abfaf2a101af423d6ff7802ff5cfc443",
+            "url": "https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/CSCOUpdaterWindows.exe"
         }
     },
     "branches": {
