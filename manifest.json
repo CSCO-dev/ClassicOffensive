@@ -5,7 +5,7 @@
     },
     "self": {
         "linux": {
-            "sha256": "fed45320804e0ef04f57a722c108f5393653b28181c6a3ae2bd7c6865991b3ed",
+            "sha256": "4071b3d692107474767c9446803e1fb81ddfd091544880783018a8c9ee913aee",
             "url": "https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/CSCOUpdaterLinux"
         },
         "windows": {
