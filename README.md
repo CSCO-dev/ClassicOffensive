@@ -19,7 +19,7 @@ Following this issue, we've decided to take the route many other mods for unsupp
 - Wait for the updater to finish
 - Go inside the __ClassicOffensive__ directory
 - Double click __csgo.exe__
-- Run the updater again when prompted in-game
+- Exit the game and run the updater when prompted by an in-game banner
 
 ## Server (Windows / Linux)
 
