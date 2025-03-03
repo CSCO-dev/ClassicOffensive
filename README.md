@@ -8,17 +8,18 @@ The project has been retired from Steam after letting us know the release was po
 
 # Installation
 
-## Client (Windows)
+## Client (Windows only)
 
-- Download [the Windows updater](CSCOUpdaterWindows.exe)
+- Download the [Windows](CSCOUpdaterWindows.exe) updater
 - Double click the executable
 - Wait for the updater to finish
 - Go inside the __ClassicOffensive__ directory
 - Double click __csgo.exe__
+- Run the updater again when prompted in-game
 
 ## Server (Windows / Linux)
 
-- Download [the Windows](CSCOUpdaterWindows.exe) or [Linux](CSCOUpdaterLinux) updater
+- Download the [Windows](CSCOUpdaterWindows.exe) or [Linux](CSCOUpdaterLinux) updater
 - Run the executable with  `-b dedicated`
 - Wait for the updater to finish
 - Go inside the __ClassicOffensive__ directory
@@ -27,3 +28,17 @@ The project has been retired from Steam after letting us know the release was po
   - SourceMod: [Windows](https://www.sourcemod.net/smdrop/1.12/sourcemod-1.12.0-git6925-windows.zip) | [Linux](https://www.sourcemod.net/smdrop/1.12/sourcemod-1.12.0-git6925-linux.tar.gz)
 - Run your usual srcds launch commands or [follow the documentation](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive/Dedicated_Servers)
   - Srcds requires a [GSLT token on appid 730](https://steamcommunity.com/dev/managegameservers)
+
+# Socials
+
+[Twitter](https://x.com/csco_dev)
+[Youtube](https://www.youtube.com/@ClassicOffensive)
+[Reddit](https://www.reddit.com/r/classicoffensive/)
+[Discord](https://discordapp.com/invite/HRWRv7c)
+[ModDB](https://www.moddb.com/mods/counter-strike-classic-offensive)
+
+# Legal
+
+Classic Offensive is a fan-made, non-commercial, standalone modification of the latest official version of Counter-Strike: Global Offensive. This project is not affiliated with Valve Corporation.
+All copyrights and trademarks associated with Counter-Strike, Half-Life, and any other official asset used from their games in accordance to the Distributing Source Engine Games / Mods guidelines, belong to Valve Corporation.
+Users are reminded to acknowledge and respect Valve Corporation's Terms of Service when playing this mod.
