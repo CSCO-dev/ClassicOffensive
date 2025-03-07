@@ -14,7 +14,7 @@ Following this issue, we've decided to take the route many other mods for unsupp
 
 ## Client (Windows only)
 
-- Download the [Windows](CSCOUpdaterWindows.exe) updater
+- Download the [Windows](https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/CSCOUpdaterWindows.exe) updater
 - Double click the executable
 - Wait for the updater to finish
 - Go inside the __ClassicOffensive__ directory
@@ -23,7 +23,7 @@ Following this issue, we've decided to take the route many other mods for unsupp
 
 ## Server (Windows / Linux)
 
-- Download the [Windows](CSCOUpdaterWindows.exe) or [Linux](CSCOUpdaterLinux) updater
+- Download the [Windows](https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/CSCOUpdaterWindows.exe) or [Linux](https://github.com/CSCO-dev/ClassicOffensive/raw/refs/heads/main/CSCOUpdaterLinux) updater
 - Run the executable with  `-b dedicated`
 - Wait for the updater to finish
 - Go inside the __ClassicOffensive__ directory
