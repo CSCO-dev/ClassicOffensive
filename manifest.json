@@ -41,21 +41,21 @@
             ]
         },
         "csco-content": {
-            "updated": 1741539184,
+            "updated": 1741640422,
             "url": [
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.9/csco.zip"
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.10/csco.zip"
             ]
         },
         "client": {
-            "updated": 1741535653,
+            "updated": 1741640422,
             "url": [
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.9/bin_client.zip"
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.10/bin_client.zip"
             ]
         },
         "dedicated": {
-            "updated": 1741535653,
+            "updated": 1741640422,
             "url": [
-                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.9/bin_dedicated.zip"
+                "https://github.com/CSCO-dev/ClassicOffensive/releases/download/v1.0.10/bin_dedicated.zip"
             ]
         }
     }
